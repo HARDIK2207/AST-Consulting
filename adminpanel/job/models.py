@@ -11,7 +11,7 @@ class Job(models.Model):
     link = models.URLField()
     
     class Meta:
-        db_table = 'JobInfo'
+        db_table = 'pythondeveloper'
 
     def __str__(self):
-        return self.title
+        return self.job_title
