@@ -8,7 +8,6 @@ This Python-based web scraping project utilizes Selenium and BeautifulSoup to ex
 - [Technologies Used](#features)
 - [Features](#features)
 - [Database Structure](#features)
-- [Environment Variables](#environment-variables)
 - [Getting Started](#getting-started)
 - [Overview](#Overview)
 - [Contributing](#contributing)
