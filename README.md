@@ -49,7 +49,7 @@ The application uses a database table with the following structure:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/hardik2207/healthify.git
+    git clone https://github.com/hardik2207/AST-Consulting.git
     cd ASTCONSULTING
     ```
 
